@@ -16,7 +16,7 @@ This tool was made using Python 3.10.11, and may not work on earlier versions.
 
 ## Usage
 
-Before running, make sure the RSDB/MiniGameCardInfo.Product.XXX.rstbl.byml.zs file from Splatoon 3's romFS is dumped and added to the root folder of the tool.
+Before running, make sure the `RSDB/MiniGameCardInfo.Product.XXX.rstbl.byml.zs` file from Splatoon 3's romFS is dumped and added to the root folder of the tool.
 
 ```
 usage: TableturfBloom.py [-h] -n [NAME] [-num [NUMBER]] [-t [TYPE]] [-r [RARITY]]
@@ -29,4 +29,4 @@ options:
   -r [RARE], -rarity [RARE]       input for the Tableturf card's rarity ("Common", "Rare", or "Fresh")
 ```
 
-Exiting the program will overwrite the MiniGameCardInfo.Product.XXX.rstbl.byml.zs file with the new card layout.
+Exiting the program will overwrite the `MiniGameCardInfo.Product.XXX.rstbl.byml.zs` file with the new card layout.
