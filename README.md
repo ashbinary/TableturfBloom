@@ -1,6 +1,6 @@
 # TableturfBloom
 
-TableturfBloom is a GUI tool for adding and editing Tableturf Battle cards to Splatoon 3 conveniently named after a K-pop song.
+TableturfBloom is a GUI tool for adding and editing Tableturf Battle cards, [conveniently named after a K-pop song.](https://www.youtube.com/watch?v=AO6BlpKi3G0)
 
 ## Installation
 
